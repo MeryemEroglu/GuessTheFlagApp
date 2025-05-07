@@ -1,7 +1,7 @@
 # Guess The Flag 
 ### 100 Days of SwiftUI project
 
-![Demo](assets/demo.gif)
+![Demo](GuessTheFlagApp/Assets.xcassets/demo.dataset/demo.gif)
 
 ## Overview
 **Guess The Flag** is an interactive iOS game developed using SwiftUI that challenges users to test their knowledge of international flags. The application presents users with a country name and asks them to identify the corresponding flag from multiple options, providing an engaging way to learn about world flags while having fun.
@@ -15,8 +15,6 @@
 - **Visually Appealing UI**: Implemented with gradient backgrounds and modern SwiftUI components
 - **Accessibility**: Designed with readable text and clear visual elements
 
-## Screenshots
-*Screenshots will be added here*
 
 ## Technical Implementation
 - Built with **SwiftUI** framework
